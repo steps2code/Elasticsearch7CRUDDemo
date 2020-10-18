@@ -1,0 +1,17 @@
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch7Demo.exe.config
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch7Demo.exe
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch7Demo.pdb
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch.Net.dll
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Nest.dll
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\System.Buffers.dll
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch.Net.pdb
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Elasticsearch.Net.xml
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Nest.pdb
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\Nest.xml
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\System.Buffers.xml
+F:\BlogTestProgram\Elasticsearch7Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\BlogTestProgram\Elasticsearch7Demo\obj\Debug\Elasticsearch7Demo.csprojAssemblyReference.cache
+F:\BlogTestProgram\Elasticsearch7Demo\obj\Debug\Elasticsearch7Demo.csproj.CopyComplete
+F:\BlogTestProgram\Elasticsearch7Demo\obj\Debug\Elasticsearch7Demo.exe
+F:\BlogTestProgram\Elasticsearch7Demo\obj\Debug\Elasticsearch7Demo.pdb
